@@ -1,0 +1,29 @@
+_repo: Murder-at-Large_53268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frost, Lesley
+    alias: Ballantine, Lesley Frost
+    birthdate: 1899
+    deathdate: 1983
+    gutenberg_agent_id: '47293'
+    url: http://www.gutenberg.org/2009/agents/47293
+description: ''
+gutenberg_issued: '2016-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53268'
+  lccn: '32012521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Long Island (N.Y.) -- Fiction'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Fiction'
+- GITenberg
+title: Murder at Large
+url: http://www.gutenberg.org/ebooks/53268
